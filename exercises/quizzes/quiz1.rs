@@ -8,9 +8,19 @@
 // - However, if Mary buys more than 40 apples, the price of each apple in the
 // entire order is reduced to only 1 rustbuck!
 
+//use std::arch::aarch64::uint32x4_t;
+
 // TODO: Write a function that calculates the price of an order of apples given
 // the quantity bought.
 // fn calculate_price_of_apples(???) -> ??? { ??? }
+fn calculate_price_of_apples(quant: i32) -> i32 {
+    let price = 2;
+    if quant > 40 {
+        quant
+    }else {
+        quant * price
+    }
+}
 
 fn main() {
     // You can optionally experiment here.

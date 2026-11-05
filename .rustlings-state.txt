@@ -1,6 +1,10 @@
 DON'T EDIT THIS FILE!
 
+<<<<<<< HEAD
 if1
+=======
+primitive_types5
+>>>>>>> 5d5e97c80673836caf802477c1d413650469f5d5
 
 intro1
 intro2
@@ -14,4 +18,16 @@ functions1
 functions2
 functions3
 functions4
+<<<<<<< HEAD
 functions5
+=======
+functions5
+if1
+if2
+if3
+quiz1
+primitive_types1
+primitive_types2
+primitive_types3
+primitive_types4
+>>>>>>> 5d5e97c80673836caf802477c1d413650469f5d5
